@@ -1,0 +1,10 @@
+
+{  
+    "name": "PingPong"
+,   "version": "1.0"
+,   "manifest_version": 2
+,   "author": "Oğuzhan Demir"
+,   "description": "Ping Pong oyunudur."
+,   "browser_action": {  "default_icon" : "pingpong.png",  "default_popup" : "http://corporate.lcwaikiki.com/hakkimizda"}
+,   "icons" : {  "16" : "pingpong.png",  "48" : "pingpong.png",  "128" : "pingpong.png"}
+}
